@@ -1,0 +1,74 @@
+header {
+    color: white;
+    padding: 10px;
+} 
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(bgr.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position:bottom;
+}
+
+
+.logo img{
+    width: 35%;
+    height: 400px;
+}
+
+.box h2{
+    width: 660px;
+    height: 500px;
+    position: absolute;
+    top: 20%;
+    left: 38%;
+}
+
+.box p{
+    width: 660px;
+    height: 100px;
+    position: absolute;
+    top: 30%;
+    left: 36%;
+}
+    
+    
+}
+p {
+    height:5%;
+    font-family: Raleway src:url(Raleway.ttf);
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+	margin-right: 50px;
+}
+
+ul li {
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding:5px 20px;
+	border:1px solid ;
+	transition: 0.5s ease;
+	border-radius: 10px;
+}
+
+ul li a:hover{
+	background-color: #fff;
+	color:rgba;
+}
+
+h2 {
+    color:aliceblue;
+}
+p{
+    color:aliceblue;
+}
